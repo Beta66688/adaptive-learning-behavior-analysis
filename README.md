@@ -34,9 +34,9 @@ This project explores the relationship between students’ adaptive learning beh
 
 ##  Key Findings
 
-- 📉 **Reading/Writing learners** performed significantly worse than Auditory learners (p = 0.027)
-- 🎥 **Video time** did not predict final scores overall, but had a **negative effect for Reading/Writing learners**
-- 🧠 **High engagement** led to **higher course satisfaction**, but not necessarily higher scores
-- ❗ **Disengaged students** had unexpectedly lower dropout rates than “independent explorers”
-- 👶 **Auditory learners** were generally younger than Visual learners
+-  **Reading/Writing learners** performed significantly worse than Auditory learners (p = 0.027)
+-  **Video time** did not predict final scores overall, but had a **negative effect for Reading/Writing learners**
+-  **High engagement** led to **higher course satisfaction**, but not necessarily higher scores
+-  **Disengaged students** had unexpectedly lower dropout rates than “independent explorers”
+-  **Auditory learners** were generally younger than Visual learners
 
