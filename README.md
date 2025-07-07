@@ -1,4 +1,4 @@
-# Adaptive Learning Behaviour and Performance Analysis
+# Online Learning Behaviour and Performance Analysis
 
 > Group project for AIDM7400 - Data Analysis and Visualization Studio  
 >  May 2025 |  HKBU |  Focused on learning styles, engagement, and academic outcomes
